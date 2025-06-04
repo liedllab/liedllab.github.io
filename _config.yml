@@ -22,10 +22,10 @@ repository               : "liedllab/liedllab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "logo.png"
-  name             : "Your Sidebar Name"
+  avatar           : "logo2.png"
+  name             : "Liedllab"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "simulating (for) a better world"
   location         : "Innsbruck, Austria"
   employer         : "University of Innsbruck"
   uri              : "https://liedllab.org/"

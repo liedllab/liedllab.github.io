@@ -9,7 +9,7 @@ modified: 2025-06-04
 
 Privacy Policy
 ======
-While we do not collect, store or process any Personally Identifiable Information and use any cookies, the website is hosted on GitHub Pages.   
+While we neither collect, store or process any Personally Identifiable Information nor use any cookies, this website is hosted on GitHub Pages.   
 GitHub may collect User Personal Information from visitors to this GitHub Pages website, including logs of visitor IP addresses, to comply with legal obligations, and to maintain the security and integrity of this Website and the Service.   
 For more information on what data is collected, check this [GitHub documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection). A general overview of GitHubs privacy policy is available at [docs.github.com/privacy](https://docs.github.com/privacy)
 
